@@ -2,7 +2,7 @@ Information and install instructions can be available at
 https://sarptra.medium.com/i-decided-to-make-my-bot-to-open-source-fad36fa4a46b
 I decided to make open source my roblox addon pack!
 
-**Q | Wait.. Whats that?**
+#Q | Wait.. Whats that?
 
 A | Firstly That’s discord bot and compatibility with roblox services. Also include anti — swear.
 
@@ -11,11 +11,11 @@ Rover api
 Bloxlink api
 roblox user search and more!
 
-**Q | Wait can I verify my users without Bloxlink or Rover?**
+#Q | Wait can I verify my users without Bloxlink or Rover?
 
 A | Yes. you can also you set their name to roblox names
 
-**Q | How do I get bot???**
+#Q | How do I get bot???
 
 A | First download the bot project. Then go https://discord.com/developers/applications Then create new application, You will see Bot click that and create new bot, Copy token And paste to bot / data / settings.json Then you will see Token” Paste token here “
 
