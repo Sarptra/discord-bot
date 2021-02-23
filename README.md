@@ -2,7 +2,7 @@ Information and install instructions can be available at
 https://sarptra.medium.com/i-decided-to-make-my-bot-to-open-source-fad36fa4a46b
 I decided to make open source my roblox addon pack!
 
-#Q | Wait.. Whats that?
+# Q | Wait.. Whats that?
 
 A | Firstly That’s discord bot and compatibility with roblox services. Also include anti — swear.
 
