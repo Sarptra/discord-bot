@@ -21,7 +21,7 @@ A | First download the bot project. Then go https://discord.com/developers/appli
 
 # Q | Oh. But how can I use?
 
-A | First download [node.js] (LTS) and complete setup. When you downloaded bot project and node js
+A | First download [node.js](nodejs.org) and complete setup. When you downloaded bot project and node js
 
 For windows:
 `cd C:\Users\yourusername\Place-Location\botwithroblox`
@@ -44,3 +44,4 @@ If you want to add more commands Go bot folder / Data / Commands
 A | You can join our Discord. Or you can Dm me Sarptra#0001
 
 And If you don’t want host yourself buy hosted bot from me. More information at https://sbotservice.netlify.app
+
