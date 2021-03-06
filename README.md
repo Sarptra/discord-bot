@@ -47,3 +47,7 @@ A | You can join our Discord. Or you can Dm me Sarptra#0001
 
 And If you don’t want host yourself buy hosted bot from me. More information at https://sbotservice.netlify.app
 
+if you like it can you give me star and any pull request are open
+
+coded with <3 and node.js
+
