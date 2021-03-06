@@ -1,5 +1,6 @@
-https://sarptra.medium.com/i-decided-to-make-my-bot-to-open-source-fad36fa4a46b
 I decided to make open source my roblox addon pack!
+note: Not full code of my bot 
+I will I promise :))
 
 # Q | Wait.. Whats that?
 
