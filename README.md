@@ -2,7 +2,7 @@ I decided to make open source my roblox addon pack!
 
 note: Not full code of my bot 
 
-I will I promise :))
+I will full open source my bot I promise :))
 
 # Q | Wait.. Whats that?
 
