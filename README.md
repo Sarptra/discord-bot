@@ -1,4 +1,3 @@
-I decided to make open source my roblox addon pack!
 
 note: Not full code of my bot 
 
