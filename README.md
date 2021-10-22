@@ -1,8 +1,3 @@
-
-note: Not full code of my bot 
-
-I will full open source my bot I promise :))
-
 # Q | Wait.. Whats that?
 
 A | Firstly That’s discord bot and compatibility with roblox services. Also include anti — swear.
@@ -42,11 +37,10 @@ If you want to add more commands Go bot folder / Data / Commands
 
 # Q | Oh. I can’t open my bot Where I can get help?
 
-A | You can join our Discord. Or you can Dm me Sarptra#0001
+A | Just open issues 
 
 And If you don’t want host yourself buy hosted bot from me. More information at https://sbotservice.netlify.app
 
 if you like it can you give me star and any pull request are open
 
-coded with <3 and node.js
 
